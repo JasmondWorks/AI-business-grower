@@ -110,7 +110,11 @@ export default function Dashboard() {
         <Card
           title="Autopilot pulse"
           description="Live look at the AI engine that keeps your channels active."
-          actions={<Button variant="outline" onClick={() => router.push("/autopilot")}>Configure</Button>}
+          actions={
+            <Button variant="outline" onClick={() => router.push("/autopilot")}>
+              Configure
+            </Button>
+          }
         >
           <div className="space-y-4">
             {autopilotInsights.map((insight) => (
@@ -119,7 +123,9 @@ export default function Dashboard() {
                 className="rounded-lg border border-slate-800/80 bg-slate-900/70 p-4"
               >
                 <div className="flex items-center justify-between">
-                  <p className="text-sm font-medium text-white">{insight.title}</p>
+                  <p className="text-sm font-medium text-white">
+                    {insight.title}
+                  </p>
                   <Badge variant="success">{insight.delta}</Badge>
                 </div>
                 <p className="mt-2 text-sm text-slate-300">{insight.detail}</p>
@@ -131,7 +137,11 @@ export default function Dashboard() {
         <Card
           title="Funding radar"
           description="Curated grants and investors ready for your organisation."
-          actions={<Button variant="outline" onClick={() => router.push("/funding")}>Open hub</Button>}
+          actions={
+            <Button variant="outline" onClick={() => router.push("/funding")}>
+              Open hub
+            </Button>
+          }
         >
           <ul className="space-y-4 text-sm text-slate-200">
             <li>
@@ -169,13 +179,13 @@ export default function Dashboard() {
         {roadmap.map((phase) => (
           <Card
             key={phase.phase}
-            title={`${phase.phase} — ${phase.label}`}
+            title={`${phase.phase} â€¢ ${phase.label}`}
             description={`${phase.progress}% complete`}
           >
             <Progress value={phase.progress} />
             <ul className="mt-4 space-y-2 text-sm text-slate-300">
               {phase.items.map((item) => (
-                <li key={item}>• {item}</li>
+                <li key={item}>â€¢ {item}</li>
               ))}
             </ul>
           </Card>
@@ -189,7 +199,9 @@ export default function Dashboard() {
       >
         <div className="grid gap-4 md:grid-cols-3">
           <div className="rounded-lg border border-slate-800 bg-slate-900/60 p-4">
-            <p className="text-sm font-medium text-white">Sync Facebook comments</p>
+            <p className="text-sm font-medium text-white">
+              Sync Facebook comments
+            </p>
             <p className="mt-2 text-sm text-slate-400">
               Launch the webhook listener and backlog import.
             </p>
@@ -206,7 +218,10 @@ export default function Dashboard() {
             <p className="mt-2 text-sm text-slate-400">
               Upload 5 top performing posts to tighten tone matching.
             </p>
-            <Button variant="ghost" className="mt-4 px-0 text-indigo-300 hover:text-indigo-200">
+            <Button
+              variant="ghost"
+              className="mt-4 px-0 text-indigo-300 hover:text-indigo-200"
+            >
               Configure
             </Button>
           </div>
