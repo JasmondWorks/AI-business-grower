@@ -1,23 +1,2 @@
-"use client";
+﻿產敳挠楬湥≴਻椊灭牯⁴⁻牣慥整汃敩瑮素映潲⁭䀢氯扩猯灵扡獡≥਻浩潰瑲笠甠敳畑牥⁹⁽牦浯∠瑀湡瑳捡⽫敲捡⵴畱牥≹਻攊灸牯⁴畦据楴湯甠敳畓慰慢敳獕牥⤨笠 挠湯瑳猠灵扡獡⁥‽牣慥整汃敩瑮⤨਻ 爠瑥牵⁮獵入敵祲笨 †焠敵祲敋㩹嬠猢灵扡獡ⵥ獵牥崢ਬ††畱牥䙹㩮愠祳据⠠ 㸽笠 ††挠湯瑳笠 †††搠瑡㩡笠甠敳⁲ⱽ †††攠牲牯ਬ†††⁽‽睡楡⁴畳慰慢敳愮瑵⹨敧啴敳⡲㬩 ††椠⁦攨牲牯 ੻††††桴潲⁷牥潲㭲 ††素 ††爠瑥牵⁮獵牥਻††ⱽ †猠慴敬楔敭›〶た〰ਬ†⥽਻
 
-import { createClient } from "@/lib/supabase";
-import { useQuery } from "@tanstack/react-query";
-
-export function useSupabaseUser() {
-  const supabase = createClient();
-
-  return useQuery({
-    queryKey: ["supabase-user"],
-    queryFn: async () => {
-      const {
-        data: { user },
-        error,
-      } = await supabase.auth.getUser();
-      if (error) {
-        throw error;
-      }
-      return user;
-    },
-    staleTime: 60_000,
-  });
-}

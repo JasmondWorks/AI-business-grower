@@ -1,11 +1,1 @@
-"use client";
-
-import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-
-const queryClient = new QueryClient();
-
-export function Providers({ children }: { children: React.ReactNode }) {
-  return (
-    <QueryClientProvider client={queryClient}>{children}</QueryClientProvider>
-  );
-}
+﻿產敳挠楬湥≴഻ഊ椊灭牯⁴⁻畑牥䍹楬湥ⱴ儠敵祲汃敩瑮牐癯摩牥素映潲⁭䀢慴獮慴正爯慥瑣焭敵祲㬢਍਍潣獮⁴畱牥䍹楬湥⁴‽敮⁷畑牥䍹楬湥⡴㬩਍਍硥潰瑲映湵瑣潩⁮牐癯摩牥⡳⁻档汩牤湥素›⁻档汩牤湥›敒捡⹴敒捡乴摯⁥⥽笠਍†敲畴湲⠠਍††儼敵祲汃敩瑮牐癯摩牥挠楬湥㵴煻敵祲汃敩瑮㹽捻楨摬敲絮⼼畑牥䍹楬湥側潲楶敤㹲਍†㬩਍ൽ
