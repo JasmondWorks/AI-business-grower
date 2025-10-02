@@ -1,1 +1,103 @@
-﻿ⴭ䔠灸湡敤⁤捳敨慭愠楬湧摥眠瑩⁨噍⁐潲摡慭ੰⴊ‭牏慧楮慳楴湯⁳污潬⁷畭瑬⵩整慮瑮愠捣獥⁳潣瑮潲੬剃䅅䕔吠䉁䕌䤠⁆低⁔塅卉協漠杲湡穩瑡潩獮⠠ 椠⁤啕䑉䐠䙅啁呌甠極彤敧敮慲整癟⠴ 剐䵉剁⁙䕋ⱙ 渠浡⁥䕔员丠呏丠䱕ⱌ 猠畬⁧䕔员唠䥎啑ⱅ 瀠楲慭祲束慯⁬䕔员䐠䙅啁呌✠楶楳楢楬祴Ⱗ 挠敲瑡摥慟⁴䥔䕍呓䵁呐⁚䕄䅆䱕⁔低⡗Ⱙ 甠摰瑡摥慟⁴䥔䕍呓䵁呐⁚䕄䅆䱕⁔低⡗਩㬩ਊ剃䅅䕔吠䉁䕌䤠⁆低⁔塅卉協甠敳彲牯慧楮慺楴湯牟汯獥⠠ 椠⁤啕䑉䐠䙅啁呌甠極彤敧敮慲整癟⠴ 剐䵉剁⁙䕋ⱙ 甠敳彲摩唠䥕⁄䕒䕆䕒䍎卅愠瑵⹨獵牥⡳摩 乏䐠䱅呅⁅䅃䍓䑁ⱅ 漠杲湡穩瑡潩彮摩唠䥕⁄䕒䕆䕒䍎卅漠杲湡穩瑡潩獮椨⥤传⁎䕄䕌䕔䌠十䅃䕄ਬ†潲敬吠塅⁔䕄䅆䱕⁔洧浥敢❲ਬ†牣慥整彤瑡吠䵉卅䅔偍婔䐠䙅啁呌丠坏⤨⤊਻ⴊ‭獁潳楣瑡⁥硥獩楴杮攠瑮瑩敩⁳楷桴漠杲湡獩瑡潩獮䄊呌剅吠䉁䕌瀠潲楶敤彲捡潣湵獴 䄠䑄䌠䱏䵕⁎䙉丠呏䔠䥘呓⁓牯慧楮慺楴湯楟⁤啕䑉删䙅剅久䕃⁓牯慧楮慺楴湯⡳摩 乏䐠䱅呅⁅䅃䍓䑁㭅ਊ䱁䕔⁒䅔䱂⁅潣瑮湥彴瑩浥ੳ†䑁⁄佃啌乍䤠⁆低⁔塅卉協漠杲湡穩瑡潩彮摩唠䥕⁄䕒䕆䕒䍎卅漠杲湡穩瑡潩獮椨⥤传⁎䕄䕌䕔䌠十䅃䕄਻䄊呌剅吠䉁䕌椠獮杩瑨獟慮獰潨獴 䄠䑄䌠䱏䵕⁎䙉丠呏䔠䥘呓⁓牯慧楮慺楴湯楟⁤啕䑉删䙅剅久䕃⁓牯慧楮慺楴湯⡳摩 乏䐠䱅呅⁅䅃䍓䑁㭅ਊ䱁䕔⁒䅔䱂⁅畦摮湩彧灯潰瑲湵瑩敩ੳ†䑁⁄佃啌乍䤠⁆低⁔塅卉協琠条⁳䕔员嵛਻䄊呌剅吠䉁䕌愠灰楬慣楴湯ੳ†䑁⁄佃啌乍䤠⁆低⁔塅卉協漠杲湡穩瑡潩彮摩唠䥕⁄䕒䕆䕒䍎卅漠杲湡穩瑡潩獮椨⥤传⁎䕄䕌䕔䌠十䅃䕄਻䄊呌剅吠䉁䕌樠扯ੳ†䑁⁄佃啌乍䤠⁆低⁔塅卉協漠杲湡穩瑡潩彮摩唠䥕⁄䕒䕆䕒䍎卅漠杲湡穩瑡潩獮椨⥤传⁎䕄䕌䕔䌠十䅃䕄਻ⴊ‭畁潴楰潬⁴潣普杩牵瑡潩⁮‫楨瑳牯੹剃䅅䕔吠䉁䕌䤠⁆低⁔塅卉協愠瑵灯汩瑯损湯楦獧⠠ 椠⁤啕䑉䐠䙅啁呌甠極彤敧敮慲整癟⠴ 剐䵉剁⁙䕋ⱙ 漠杲湡穩瑡潩彮摩唠䥕⁄䕒䕆䕒䍎卅漠杲湡穩瑡潩獮椨⥤传⁎䕄䕌䕔䌠十䅃䕄ਬ†獩敟慮汢摥䈠住䕌乁䐠䙅啁呌映污敳ਬ†潧污吠塅⁔䕄䅆䱕⁔瘧獩扩汩瑩❹ਬ†慣敤据⁥半乏ⱂ 爠灥祬瑟浥汰瑡獥䨠体䉎ਬ†牣慥整彤瑡吠䵉卅䅔偍婔䐠䙅啁呌丠坏⤨ਬ†灵慤整彤瑡吠䵉卅䅔偍婔䐠䙅啁呌丠坏⤨⤊਻䌊䕒呁⁅䅔䱂⁅䙉丠呏䔠䥘呓⁓畡潴楰潬彴畲獮⠠ 椠⁤啕䑉䐠䙅啁呌甠極彤敧敮慲整癟⠴ 剐䵉剁⁙䕋ⱙ 漠杲湡穩瑡潩彮摩唠䥕⁄䕒䕆䕒䍎卅漠杲湡穩瑡潩獮椨⥤传⁎䕄䕌䕔䌠十䅃䕄ਬ†畲彮祴数吠塅ⱔ 猠慴畴⁳䕔员ਬ†瑳牡整彤瑡吠䵉卅䅔偍婔䐠䙅啁呌丠坏⤨ਬ†潣灭敬整彤瑡吠䵉卅䅔偍婔ਬ†敭慴慤慴䨠体䉎⤊਻ⴊ‭䥁爠捥浯敭摮瑡潩獮映敥扤捡⁫潬灯䌊䕒呁⁅䅔䱂⁅䙉丠呏䔠䥘呓⁓楡牟捥浯敭摮瑡潩獮⠠ 椠⁤啕䑉䐠䙅啁呌甠極彤敧敮慲整癟⠴ 剐䵉剁⁙䕋ⱙ 漠杲湡穩瑡潩彮摩唠䥕⁄䕒䕆䕒䍎卅漠杲湡穩瑡潩獮椨⥤传⁎䕄䕌䕔䌠十䅃䕄ਬ†潣瑮湥彴瑩浥楟⁤啕䑉删䙅剅久䕃⁓潣瑮湥彴瑩浥⡳摩 乏䐠䱅呅⁅䕓⁔啎䱌ਬ†敲潣浭湥慤楴湯瑟灹⁥䕔员ਬ†慰汹慯⁤半乏ⱂ 愠灰楬摥䈠住䕌乁䐠䙅啁呌映污敳ਬ†牣慥整彤瑡吠䵉卅䅔偍婔䐠䙅啁呌丠坏⤨ਬ†灡汰敩彤瑡吠䵉卅䅔偍婔⤊਻ⴊ‭潎楴楦慣楴湯挠湥牴੥剃䅅䕔吠䉁䕌䤠⁆低⁔塅卉協渠瑯晩捩瑡潩獮⠠ 椠⁤啕䑉䐠䙅啁呌甠極彤敧敮慲整癟⠴ 剐䵉剁⁙䕋ⱙ 漠杲湡穩瑡潩彮摩唠䥕⁄䕒䕆䕒䍎卅漠杲湡穩瑡潩獮椨⥤传⁎䕄䕌䕔䌠十䅃䕄ਬ†獵牥楟⁤啕䑉删䙅剅久䕃⁓畡桴甮敳獲椨⥤传⁎䕄䕌䕔䌠十䅃䕄ਬ†楴汴⁥䕔员ਬ†潢祤吠塅ⱔ 挠瑡来牯⁹䕔员ਬ†獩牟慥⁤佂䱏䅅⁎䕄䅆䱕⁔慦獬ⱥ 愠瑣潩彮牵⁬䕔员ਬ†牣慥整彤瑡吠䵉卅䅔偍婔䐠䙅啁呌丠坏⤨⤊਻ⴊ‭硅潰瑲琠慲正湩⁧潦⁲䑐⽆偐塔漠瑵異獴䌊䕒呁⁅䅔䱂⁅䙉丠呏䔠䥘呓⁓硥潰瑲⁳ਨ†摩唠䥕⁄䕄䅆䱕⁔畵摩束湥牥瑡彥㑶⤨倠䥒䅍奒䬠奅ਬ†牯慧楮慺楴湯楟⁤啕䑉删䙅剅久䕃⁓牯慧楮慺楴湯⡳摩 乏䐠䱅呅⁅䅃䍓䑁ⱅ 甠敳彲摩唠䥕⁄䕒䕆䕒䍎卅愠瑵⹨獵牥⡳摩 乏䐠䱅呅⁅䕓⁔啎䱌ਬ†硥潰瑲瑟灹⁥䕔员ਬ†瑳瑡獵吠塅⁔䕄䅆䱕⁔焧敵敵❤ਬ†瑳牯条彥慰桴吠塅ⱔ 挠敲瑡摥慟⁴䥔䕍呓䵁呐⁚䕄䅆䱕⁔低⡗Ⱙ 挠浯汰瑥摥慟⁴䥔䕍呓䵁呐ਗ਼㬩ਊ剃䅅䕔䤠䑎塅䤠⁆低⁔塅卉協椠硤畟敳彲牯慧楮慺楴湯牟汯獥畟敳彲摩传⁎獵牥潟杲湡穩瑡潩彮潲敬⡳獵牥楟⥤਻剃䅅䕔䤠䑎塅䤠⁆低⁔塅卉協椠硤慟彩敲潣浭湥慤楴湯彳牯⁧乏愠彩敲潣浭湥慤楴湯⡳牯慧楮慺楴湯楟⥤਻剃䅅䕔䤠䑎塅䤠⁆低⁔塅卉協椠硤湟瑯晩捩瑡潩獮畟敳⁲乏渠瑯晩捩瑡潩獮用敳彲摩㬩䌊䕒呁⁅义䕄⁘䙉丠呏䔠䥘呓⁓摩彸硥潰瑲彳牯⁧乏攠灸牯獴漨杲湡穩瑡潩彮摩㬩䌊䕒呁⁅义䕄⁘䙉丠呏䔠䥘呓⁓摩彸畡潴楰潬彴畲獮潟杲传⁎畡潴楰潬彴畲獮漨杲湡穩瑡潩彮摩㬩
+-- Expanded schema aligned with MVP roadmap
+
+-- Organisations allow multi-tenant access control
+CREATE TABLE IF NOT EXISTS organizations (
+  id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+  name TEXT NOT NULL,
+  slug TEXT UNIQUE,
+  primary_goal TEXT DEFAULT 'visibility',
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  updated_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+CREATE TABLE IF NOT EXISTS user_organization_roles (
+  id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+  user_id UUID REFERENCES auth.users(id) ON DELETE CASCADE,
+  organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE,
+  role TEXT DEFAULT 'member',
+  created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- Associate existing entities with organisations
+ALTER TABLE provider_accounts
+  ADD COLUMN IF NOT EXISTS organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE;
+
+ALTER TABLE content_items
+  ADD COLUMN IF NOT EXISTS organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE;
+
+ALTER TABLE insight_snapshots
+  ADD COLUMN IF NOT EXISTS organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE;
+
+ALTER TABLE funding_opportunities
+  ADD COLUMN IF NOT EXISTS tags TEXT[];
+
+ALTER TABLE applications
+  ADD COLUMN IF NOT EXISTS organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE;
+
+ALTER TABLE jobs
+  ADD COLUMN IF NOT EXISTS organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE;
+
+-- Autopilot configuration + history
+CREATE TABLE IF NOT EXISTS autopilot_configs (
+  id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+  organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE,
+  is_enabled BOOLEAN DEFAULT false,
+  goal TEXT DEFAULT 'visibility',
+  cadence JSONB,
+  reply_templates JSONB,
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  updated_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+CREATE TABLE IF NOT EXISTS autopilot_runs (
+  id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+  organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE,
+  run_type TEXT,
+  status TEXT,
+  started_at TIMESTAMPTZ DEFAULT NOW(),
+  completed_at TIMESTAMPTZ,
+  metadata JSONB
+);
+
+-- AI recommendations feedback loop
+CREATE TABLE IF NOT EXISTS ai_recommendations (
+  id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+  organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE,
+  content_item_id UUID REFERENCES content_items(id) ON DELETE SET NULL,
+  recommendation_type TEXT,
+  payload JSONB,
+  applied BOOLEAN DEFAULT false,
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  applied_at TIMESTAMPTZ
+);
+
+-- Notification centre
+CREATE TABLE IF NOT EXISTS notifications (
+  id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+  organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE,
+  user_id UUID REFERENCES auth.users(id) ON DELETE CASCADE,
+  title TEXT,
+  body TEXT,
+  category TEXT,
+  is_read BOOLEAN DEFAULT false,
+  action_url TEXT,
+  created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- Export tracking for PDF/PPTX outputs
+CREATE TABLE IF NOT EXISTS exports (
+  id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+  organization_id UUID REFERENCES organizations(id) ON DELETE CASCADE,
+  user_id UUID REFERENCES auth.users(id) ON DELETE SET NULL,
+  export_type TEXT,
+  status TEXT DEFAULT 'queued',
+  storage_path TEXT,
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  completed_at TIMESTAMPTZ
+);
+
+CREATE INDEX IF NOT EXISTS idx_user_organization_roles_user_id ON user_organization_roles(user_id);
+CREATE INDEX IF NOT EXISTS idx_ai_recommendations_org ON ai_recommendations(organization_id);
+CREATE INDEX IF NOT EXISTS idx_notifications_user ON notifications(user_id);
+CREATE INDEX IF NOT EXISTS idx_exports_org ON exports(organization_id);
+CREATE INDEX IF NOT EXISTS idx_autopilot_runs_org ON autopilot_runs(organization_id);

@@ -1,2 +1,36 @@
-﻿浩潰瑲琠灹⁥⁻敍慴慤慴素映潲⁭渢硥≴਻浩潰瑲笠䜠楥瑳‬敇獩彴潍潮素映潲⁭渢硥⽴潦瑮术潯汧≥਻浩潰瑲∠⼮汧扯污⹳獣≳਻浩潰瑲笠倠潲楶敤獲素映潲⁭⸢瀯潲楶敤獲㬢ਊ潣獮⁴敧獩却湡⁳‽敇獩⡴੻†慶楲扡敬›ⴢ昭湯⵴敧獩⵴慳獮Ⱒ 猠扵敳獴›≛慬楴≮ⱝ紊㬩ਊ潣獮⁴敧獩䵴湯⁯‽敇獩彴潍潮笨 瘠牡慩汢㩥∠ⴭ潦瑮札楥瑳洭湯≯ਬ†畳獢瑥㩳嬠氢瑡湩崢ਬ⥽਻攊灸牯⁴潣獮⁴敭慴慤慴›敍慴慤慴㴠笠 琠瑩敬›䄢灭楬祦⁲‭䥁䈠獵湩獥⁳片睯牥Ⱒ 搠獥牣灩楴湯਺††䄢⁮䥁朠潲瑷⁨慰瑲敮⁲桴瑡戠潯瑳⁳楶楳楢楬祴愠摮猠捥牵獥映湵楤杮漠⁮畡潴楰潬⹴Ⱒ紊਻攊灸牯⁴敤慦汵⁴畦据楴湯删潯䱴祡畯⡴੻†档汩牤湥ਬ㩽删慥潤汮㱹੻†档汩牤湥›敒捡⹴敒捡乴摯㭥紊⤾笠 爠瑥牵⁮ਨ††格浴⁬慬杮∽湥㸢 ††㰠潢祤 †††挠慬獳慎敭笽①杻楥瑳慓獮瘮牡慩汢絥␠杻楥瑳潍潮瘮牡慩汢絥戠ⵧ汳瑡ⵥ㔹‰整瑸猭慬整㔭‰湡楴污慩敳恤੽†††ਾ††††值潲楶敤獲笾档汩牤湥㱽倯潲楶敤獲ਾ†††⼼潢祤ਾ††⼼瑨汭ਾ†㬩紊
+import type { Metadata } from "next";
+import { Geist, Geist_Mono } from "next/font/google";
+import "./globals.css";
+import { Providers } from "./providers";
 
+const geistSans = Geist({
+  variable: "--font-geist-sans",
+  subsets: ["latin"],
+});
+
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
+
+export const metadata: Metadata = {
+  title: "Amplifyr - AI Business Grower",
+  description:
+    "An AI growth partner that boosts visibility and secures funding on autopilot.",
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en">
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} bg-slate-950 text-slate-50 antialiased`}
+      >
+        <Providers>{children}</Providers>
+      </body>
+    </html>
+  );
+}

@@ -1,2 +1,112 @@
-﻿產敳挠楬湥≴਻椊灭牯⁴⁻慄桳潢牡卤敨汬素映潲⁭䀢振浯潰敮瑮⽳慬潹瑵搯獡扨慯摲猭敨汬㬢椊灭牯⁴⁻慃摲素映潲⁭䀢振浯潰敮瑮⽳極振牡≤਻浩潰瑲笠䈠摡敧素映潲⁭䀢振浯潰敮瑮⽳極戯摡敧㬢椊灭牯⁴⁻牐杯敲獳素映潲⁭䀢振浯潰敮瑮⽳極瀯潲牧獥≳਻浩潰瑲笠䈠瑵潴⁮⁽牦浯∠⽀潣灭湯湥獴甯⽩畢瑴湯㬢ਊ潣獮⁴档湡敮䉬敲歡潤湷㴠嬠 笠渠浡㩥∠湉瑳条慲≭‬敲捡㩨∠㠴≫‬牧睯桴›⬢㘲∥‬潣癮牥楳湯›㌢㐮∥素ਬ†⁻慮敭›䘢捡扥潯≫‬敲捡㩨∠ㄳ≫‬牧睯桴›⬢㐱∥‬潣癮牥楳湯›㈢ㄮ∥素ਬ†⁻慮敭›堢Ⱒ爠慥档›ㄢ欲Ⱒ朠潲瑷㩨∠㘫∥‬潣癮牥楳湯›ㄢ㌮∥素ਬ†⁻慮敭›䰢湩敫䥤≮‬敲捡㩨∠㤱≫‬牧睯桴›⬢㠱∥‬潣癮牥楳湯›㐢㘮∥素ਬ㭝ਊ潣獮⁴硥数楲敭瑮⁳‽ਜ਼†੻††慮敭›刢敥⁬獶猠慴楴≣ਬ††敭牴捩›䔢杮条浥湥≴ਬ††敲畳瑬›⬢ㄴ∥ਬ††瑳瑡獵›圢湩敮≲ਬ†ⱽ 笠 †渠浡㩥∠呃⁁汰捡浥湥≴ਬ††敭牴捩›䌢楬正琭牨畯桧Ⱒ †爠獥汵㩴∠ㄫ┹Ⱒ †猠慴畴㩳∠楗湮牥Ⱒ 素ਬ†੻††慮敭›䜢慲瑮猠潴祲整汬湩≧ਬ††敭牴捩›䌢浯汰瑥潩≮ਬ††敲畳瑬›ⴢ┳Ⱒ †猠慴畴㩳∠敒整瑳Ⱒ 素ਬ㭝ਊ硥潰瑲搠晥畡瑬映湵瑣潩⁮湁污瑹捩偳条⡥ ੻†敲畴湲⠠ †㰠慄桳潢牡卤敨汬 ††琠瑩敬∽湁污瑹捩≳ ††猠扵楴汴㵥唢楮楦摥瀠牥潦浲湡散瘠敩⁷捡潲獳挠慨湮汥⁳湡⁤硥数楲敭瑮⹳ਢ†††捡楴湯㵳㱻畂瑴湯瘠牡慩瑮∽畯汴湩≥䔾灸牯⁴䑐㱆䈯瑵潴㹮੽††ਾ†††猼捥楴湯挠慬獳慎敭∽牧摩朠灡㐭洠㩤牧摩挭汯⵳∴ਾ††††䌼牡⁤楴汴㵥刢慥档•敤捳楲瑰潩㵮倢獡⁴〳搠祡≳ਾ†††††瀼挠慬獳慎敭∽瑭㈭琠硥⵴砳⁬潦瑮猭浥扩汯⁤整瑸眭楨整㸢ㄱ欰⼼㹰 ††††㰠⁰汣獡乳浡㵥洢⵴‱整瑸猭⁭整瑸攭敭慲摬㌭〰㸢㈫┲瘠⁳牰癥潩獵⼼㹰 †††㰠䌯牡㹤 †††㰠慃摲琠瑩敬∽湅慧敧敭瑮•敤捳楲瑰潩㵮䌢楬正⁳‫潣浭湥獴㸢 ††††㰠⁰汣獡乳浡㵥洢⵴′整瑸㌭汸映湯⵴敳業潢摬琠硥⵴桷瑩≥㠾㐮㱫瀯ਾ†††††瀼挠慬獳慎敭∽瑭ㄭ琠硥⵴浳琠硥⵴浥牥污ⵤ〳∰⬾㔱‥獶瀠敲楶畯㱳瀯ਾ††††⼼慃摲ਾ††††䌼牡⁤楴汴㵥䄢瑵灯汩瑯挠癯牥条≥搠獥牣灩楴湯∽潐瑳⁳慨摮敬⁤祢䄠≉ਾ†††††瀼挠慬獳慎敭∽瑭㈭琠硥⵴砳⁬潦瑮猭浥扩汯⁤整瑸眭楨整㸢㠶㰥瀯ਾ†††††值潲牧獥⁳慶畬㵥㙻紸⼠ਾ††††⼼慃摲ਾ††††䌼牡⁤楴汴㵥䘢湵楤杮搠慲瑦≳搠獥牣灩楴湯∽䥁愠獳獩整≤ਾ†††††瀼挠慬獳慎敭∽瑭㈭琠硥⵴砳⁬潦瑮猭浥扩汯⁤整瑸眭楨整㸢㰶瀯ਾ†††††瀼挠慬獳慎敭∽瑭ㄭ琠硥⵴浳琠硥⵴浥牥污ⵤ〳∰㌾渠睥琠楨⁳敷步⼼㹰 †††㰠䌯牡㹤 ††㰠猯捥楴湯ਾ ††㰠敳瑣潩⁮汣獡乳浡㵥朢楲⁤慧⵰‴杬机楲ⵤ潣獬㈭㸢 †††㰠慃摲 ††††琠瑩敬∽桃湡敮⁬牢慥摫睯≮ ††††搠獥牣灩楴湯∽潎浲污穩摥洠瑥楲獣愠牣獯⁳潣湮捥整⁤捡潣湵獴∮ †††㸠 ††††㰠楤⁶汣獡乳浡㵥猢慰散礭㌭㸢 †††††笠档湡敮䉬敲歡潤湷洮灡⠨档湡敮⥬㴠‾ਨ†††††††搼癩 †††††††欠祥笽档湡敮⹬慮敭੽††††††††汣獡乳浡㵥昢敬⁸瑩浥⵳散瑮牥樠獵楴祦戭瑥敷湥爠畯摮摥氭⁧潢摲牥戠牯敤⵲汳瑡ⵥ〸‰杢猭慬整㤭〰㘯‰⵰∴ ††††††㸠 †††††††㰠楤㹶 ††††††††㰠⁰汣獡乳浡㵥琢硥⵴浳映湯⵴敳業潢摬琠硥⵴桷瑩≥笾档湡敮⹬慮敭㱽瀯ਾ†††††††††瀼挠慬獳慎敭∽整瑸砭⁳整瑸猭慬整㐭〰㸢敒捡⁨捻慨湮汥爮慥档㱽瀯ਾ††††††††⼼楤㹶 †††††††㰠楤⁶汣獡乳浡㵥琢硥⵴楲桧⁴整瑸猭⁭整瑸猭慬整㌭〰㸢 ††††††††㰠㹰捻慨湮汥朮潲瑷絨⼼㹰 ††††††††㰠⁰汣獡乳浡㵥琢硥⵴獸琠硥⵴汳瑡ⵥ〵∰䌾湯⁶捻慨湮汥挮湯敶獲潩絮⼼㹰 †††††††㰠搯癩ਾ†††††††⼼楤㹶 †††††⤠紩 ††††㰠搯癩ਾ††††⼼慃摲ਾ †††㰠慃摲 ††††琠瑩敬∽硅数楲敭瑮≳ ††††搠獥牣灩楴湯∽楈桧瘠汥捯瑩⁹整瑳⁳楷桴氠晩⁴畳浭牡敩⹳ਢ†††††捡楴湯㵳㱻畂瑴湯瘠牡慩瑮∽桧獯≴嘾敩⁷慢正潬㱧䈯瑵潴㹮੽††††ਾ†††††搼癩挠慬獳慎敭∽灳捡ⵥ⵹∳ਾ††††††敻灸牥浩湥獴洮灡⠨硥数楲敭瑮 㸽⠠ ††††††㰠楤੶††††††††敫㵹敻灸牥浩湥⹴慮敭੽††††††††汣獡乳浡㵥昢敬⁸瑩浥⵳散瑮牥樠獵楴祦戭瑥敷湥爠畯摮摥氭⁧潢摲牥戠牯敤⵲汳瑡ⵥ〸‰杢猭慬整㤭〰㘯‰⵰∴ ††††††㸠 †††††††㰠楤㹶 ††††††††㰠⁰汣獡乳浡㵥琢硥⵴浳映湯⵴敳業潢摬琠硥⵴桷瑩≥笾硥数楲敭瑮渮浡絥⼼㹰 ††††††††㰠⁰汣獡乳浡㵥琢硥⵴獸琠硥⵴汳瑡ⵥ〴∰倾楲慭祲洠瑥楲⁣敻灸牥浩湥⹴敭牴捩㱽瀯ਾ††††††††⼼楤㹶 †††††††㰠慂杤⁥慶楲湡㵴敻灸牥浩湥⹴瑳瑡獵㴠㴽∠楗湮牥•‿猢捵散獳•›眢牡楮杮索ਾ†††††††††敻灸牥浩湥⹴敲畳瑬੽††††††††⼼慂杤㹥 ††††††㰠搯癩ਾ††††††⤩੽†††††⼼楤㹶 †††㰠䌯牡㹤 ††㰠猯捥楴湯ਾ††⼼慄桳潢牡卤敨汬ਾ†㬩紊
+"use client";
 
+import { DashboardShell } from "@/components/layout/dashboard-shell";
+import { Card } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Progress } from "@/components/ui/progress";
+import { Button } from "@/components/ui/button";
+
+const channelBreakdown = [
+  { name: "Instagram", reach: "48k", growth: "+26%", conversion: "3.4%" },
+  { name: "Facebook", reach: "31k", growth: "+14%", conversion: "2.1%" },
+  { name: "X", reach: "12k", growth: "+6%", conversion: "1.3%" },
+  { name: "LinkedIn", reach: "19k", growth: "+18%", conversion: "4.6%" },
+];
+
+const experiments = [
+  {
+    name: "Reel vs static",
+    metric: "Engagement",
+    result: "+41%",
+    status: "Winner",
+  },
+  {
+    name: "CTA placement",
+    metric: "Click-through",
+    result: "+19%",
+    status: "Winner",
+  },
+  {
+    name: "Grant storytelling",
+    metric: "Completion",
+    result: "-3%",
+    status: "Retest",
+  },
+];
+
+export default function AnalyticsPage() {
+  return (
+    <DashboardShell
+      title="Analytics"
+      subtitle="Unified performance view across channels and experiments."
+      actions={<Button variant="outline">Export PDF</Button>}
+    >
+      <section className="grid gap-4 md:grid-cols-4">
+        <Card title="Reach" description="Past 30 days">
+          <p className="mt-2 text-3xl font-semibold text-white">110k</p>
+          <p className="mt-1 text-sm text-emerald-300">+22% vs previous</p>
+        </Card>
+        <Card title="Engagement" description="Clicks + comments">
+          <p className="mt-2 text-3xl font-semibold text-white">8.4k</p>
+          <p className="mt-1 text-sm text-emerald-300">+15% vs previous</p>
+        </Card>
+        <Card title="Autopilot coverage" description="Posts handled by AI">
+          <p className="mt-2 text-3xl font-semibold text-white">68%</p>
+          <Progress value={68} />
+        </Card>
+        <Card title="Funding drafts" description="AI assisted">
+          <p className="mt-2 text-3xl font-semibold text-white">6</p>
+          <p className="mt-1 text-sm text-emerald-300">3 new this week</p>
+        </Card>
+      </section>
+
+      <section className="grid gap-4 lg:grid-cols-2">
+        <Card
+          title="Channel breakdown"
+          description="Normalized metrics across connected accounts."
+        >
+          <div className="space-y-3">
+            {channelBreakdown.map((channel) => (
+              <div
+                key={channel.name}
+                className="flex items-center justify-between rounded-lg border border-slate-800 bg-slate-900/60 p-4"
+              >
+                <div>
+                  <p className="text-sm font-semibold text-white">{channel.name}</p>
+                  <p className="text-xs text-slate-400">Reach {channel.reach}</p>
+                </div>
+                <div className="text-right text-sm text-slate-300">
+                  <p>{channel.growth}</p>
+                  <p className="text-xs text-slate-500">Conv {channel.conversion}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </Card>
+
+        <Card
+          title="Experiments"
+          description="High velocity tests with lift summaries."
+          actions={<Button variant="ghost">View backlog</Button>}
+        >
+          <div className="space-y-3">
+            {experiments.map((experiment) => (
+              <div
+                key={experiment.name}
+                className="flex items-center justify-between rounded-lg border border-slate-800 bg-slate-900/60 p-4"
+              >
+                <div>
+                  <p className="text-sm font-semibold text-white">{experiment.name}</p>
+                  <p className="text-xs text-slate-400">Primary metric {experiment.metric}</p>
+                </div>
+                <Badge variant={experiment.status === "Winner" ? "success" : "warning"}>
+                  {experiment.result}
+                </Badge>
+              </div>
+            ))}
+          </div>
+        </Card>
+      </section>
+    </DashboardShell>
+  );
+}

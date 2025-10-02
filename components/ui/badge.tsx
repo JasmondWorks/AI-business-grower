@@ -1,2 +1,24 @@
-﻿浩潰瑲笠删慥瑣潎敤素映潲⁭爢慥瑣㬢ਊ湩整晲捡⁥慂杤健潲獰笠 瘠牡慩瑮㨿∠畳捣獥≳簠∠慷湲湩≧簠∠慤杮牥•⁼渢略牴污•⁼椢普≯਻†档汩牤湥›敒捡乴摯㭥紊ਊ潣獮⁴慶楲湡却祴敬㩳删捥牯㱤敒畱物摥䈼摡敧牐灯㹳≛慶楲湡≴ⱝ猠牴湩㹧㴠笠 猠捵散獳›戢ⵧ浥牥污ⵤ〵⼰〱琠硥⵴浥牥污ⵤ〳‰潢摲牥攭敭慲摬㔭〰㌯∰ਬ†慷湲湩㩧∠杢愭扭牥㔭〰ㄯ‰整瑸愭扭牥㈭〰戠牯敤⵲浡敢⵲〵⼰〳Ⱒ 搠湡敧㩲∠杢爭獯ⵥ〵⼰〱琠硥⵴潲敳㌭〰戠牯敤⵲潲敳㔭〰㐯∰ਬ†敮瑵慲㩬∠杢猭慬整㔭〰ㄯ‰整瑸猭慬整㈭〰戠牯敤⵲汳瑡ⵥ〶⼰〳Ⱒ 椠普㩯∠杢猭祫㔭〰ㄯ‰整瑸猭祫㈭〰戠牯敤⵲歳⵹〵⼰〳Ⱒ紊਻攊灸牯⁴畦据楴湯䈠摡敧笨瘠牡慩瑮㴠∠敮瑵慲≬‬档汩牤湥素›慂杤健潲獰 ੻†敲畴湲⠠ †㰠灳湡 ††挠慬獳慎敭笽楠汮湩ⵥ汦硥椠整獭挭湥整⁲潲湵敤ⵤ畦汬戠牯敤⁲硰㈭㔮瀠⵹‱整瑸砭⁳潦瑮洭摥畩⁭笤慶楲湡却祴敬孳慶楲湡嵴恽੽††ਾ†††捻楨摬敲絮 †㰠猯慰㹮 ⤠਻
+import { ReactNode } from "react";
 
+interface BadgeProps {
+  variant?: "success" | "warning" | "danger" | "neutral" | "info";
+  children: ReactNode;
+}
+
+const variantStyles: Record<Required<BadgeProps>["variant"], string> = {
+  success: "bg-emerald-500/10 text-emerald-300 border-emerald-500/30",
+  warning: "bg-amber-500/10 text-amber-200 border-amber-500/30",
+  danger: "bg-rose-500/10 text-rose-300 border-rose-500/40",
+  neutral: "bg-slate-500/10 text-slate-200 border-slate-600/30",
+  info: "bg-sky-500/10 text-sky-200 border-sky-500/30",
+};
+
+export function Badge({ variant = "neutral", children }: BadgeProps) {
+  return (
+    <span
+      className={`inline-flex items-center rounded-full border px-2.5 py-1 text-xs font-medium ${variantStyles[variant]}`}
+    >
+      {children}
+    </span>
+  );
+}

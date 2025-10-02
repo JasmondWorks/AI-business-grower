@@ -1,1 +1,59 @@
-﻿‣流汰晩特霠䄠⁉片睯桴倠牡湴牥ਊ流汰晩特椠⁳湡䄠⁉潣瀭汩瑯琠慨⁴畡潴慭整⁳潳楣污瘠獩扩汩瑩⁹湡⁤畦摮湩⁧潷歲汦睯⁳潦⁲牯慧楮慳楴湯⹳吠敨㈠〮䴠偖猠楨獰删慥⽤牗瑩⁥潳楣污椠瑮来慲楴湯ⱳ䄠瑵灯汩瑯猠档摥汵湩Ⱨ愠摮愠䘠湵楤杮䠠扵琠慨⁴牤晡獴朠慲瑮愠灰楬慣楴湯⁳湡⁤湩敶瑳牯搠捥獫ਮ⌊‣敔档猠慴正ਊ‭⨪牆浡睥牯⩫㨪丠硥⹴獪䄠灰删畯整⁲刨慥瑣ㄠⰹ吠灹卥牣灩⥴ⴊ⨠匪祴楬杮⨪›慔汩楷摮⠠㑶 瑵汩瑩⵹楦獲⁴汣獡敳ੳ‭⨪慄慴⬠䄠瑵⩨㨪匠灵扡獡⁥倨獯杴敲ⱳ䄠瑵ⱨ匠潴慲敧਩‭⨪瑓瑡⩥㨪删慥瑣儠敵祲映牯挠楬湥⵴楳敤搠瑡⁡牯档獥牴瑡潩੮‭⨪䥁⨪›灏湥䥁䄠䥐⠠整瑸⬠椠慭敧朠湥牥瑡潩Ɱ漠瑰潩慮⁬楦敮琭湵湩⥧ਊ⌣䄠灰猠牵慦散ਊ⁼牁慥簠䐠獥牣灩楴湯簠簊ⴠⴭ簠ⴠⴭ簠簊怠怯簠䜠潲瑷⁨潃瑮潲⁬敃瑮牥眠瑩⁨牣獯⵳档湡敮⁬敭牴捩ⱳ爠慯浤灡‬湡⁤敫⁹捡楴湯⁳੼⁼⽠潳楣污⁠⁼捁潣湵⁴潣湮捥楴湯ⱳ瀠扵楬桳湩⁧慣敤据ⱥ椠杮獥楴湯樠扯ⱳ映敥扤捡⁫潬灯簠簊怠愯瑵灯汩瑯⁠⁼潃普杩牵⁥慣敤据⁥牰獥瑥ⱳ洠湯瑩牯瀠灩汥湩⁥瑳条獥‬楶睥氠慥湲湩⁧敦摥簠簊怠是湵楤杮⁠⁼灏潰瑲湵瑩⁹楤捳癯牥ⱹ映湵楤杮瀠灩汥湩ⱥ䄠⁉牤晡⁴慭慮敧⁲੼⁼⽠湡污瑹捩恳簠唠楮楦摥攠杮条浥湥⁴湡污瑹捩⁳湡⁤硥数楲敭瑮琠慲正湩⁧੼⁼⽠敳瑴湩獧⁠⁼潗歲灳捡⁥牰景汩ⱥ渠瑯晩捩瑡潩獮‬䥁朠慵摲慲汩⁳੼⌊‣畓慰慢敳猠档浥੡䴊杩慲楴湯⁳楬敶椠⁮獠灵扡獡⽥業牧瑡潩獮⹠吠敨椠楮楴污猠档浥⁡敳獴甠⁰潳楣污‬潣瑮湥ⱴ映湵楤杮‬湡⁤潪⁢慴汢獥‮だ㈰敟灸湡彤捳敨慭献汱⁠湩牴摯捵獥漠杲湡獩瑡潩獮‬畡潴楰潬⁴潣普杩爯湵ⱳ䄠⁉敲潣浭湥慤楴湯ⱳ渠瑯晩捩瑡潩獮‬湡⁤硥潰瑲琠慲正湩⹧ਊ⌣‣牃摥湥楴污ੳ倊灯汵瑡⁥⹠湥⹶潬慣恬眠瑩⁨潹牵匠灵扡獡⁥湡⁤灏湥䥁欠祥㩳ਊ恠੠䕎员偟䉕䥌彃啓䅐䅂䕓啟䱒礽畯彲畳慰慢敳灟潲敪瑣畟汲上塅彔啐䱂䍉卟偕䉁十彅乁乏䭟奅礽畯彲畳慰慢敳慟潮彮敫੹啓䅐䅂䕓卟剅䥖䕃剟䱏彅䕋㵙潹牵獟牥楶散牟汯彥敫੹偏久䥁䅟䥐䭟奅礽畯彲灯湥楡慟楰歟祥怊恠ਊ⌣䜠瑥楴杮猠慴瑲摥ਊ恠扠獡੨灮⁭湩瑳污੬灮⁭畲⁮敤੶恠੠嘊獩瑩怠瑨灴⼺氯捯污潨瑳㌺〰怰‮桔⁥業摤敬慷敲爠摥物捥獴甠慮瑵敨瑮捩瑡摥甠敳獲琠⁯⽠潬楧恮ਮ吊⁯畲⁮慤慴慢敳洠杩慲楴湯㩳ਊ恠扠獡੨灮⁸畳慰慢敳洠杩慲整甠ੰ恠੠⌊‣敎瑸甠ੰㄊ‮浉汰浥湥⁴畓慰慢敳攠杤⁥畦据楴湯⁳潦⁲湩敧瑳潩⁮牣湯愠摮愠瑵灯汩瑯樠扯⹳㈊‮楗敲瀠潲楶敤⁲䅏瑵⁨汦睯⁳䴨瑥ⱡ堠‬楌歮摥湉‬潙呵扵⥥愠摮猠潴敲猠潣数⹳㌊‮潃湮捥⁴䥁朠湥牥瑡潩⁮湥灤楯瑮⁳潦⁲潣瑮湥ⱴ朠慲瑮ⱳ愠摮搠捥⁫硥潰瑲⹳㐊‮畂汩⁤敲污愠慮祬楴獣搠獡扨慯摲⁳慢正摥戠⁹畓慰慢敳删䍐洯瑡牥慩楬敺⁤楶睥⹳
+# Amplifyr � AI Growth Partner
+
+Amplifyr is an AI co-pilot that automates social visibility and funding workflows for organisations. The 2.0 MVP ships Read/Write social integrations, Autopilot scheduling, and a Funding Hub that drafts grant applications and investor decks.
+
+## Tech stack
+
+- **Framework**: Next.js App Router (React 19, TypeScript)
+- **Styling**: Tailwind (v4) utility-first classes
+- **Data + Auth**: Supabase (Postgres, Auth, Storage)
+- **State**: React Query for client-side data orchestration
+- **AI**: OpenAI API (text + image generation, optional fine-tuning)
+
+## App surface
+
+| Area | Description |
+| --- | --- |
+| `/` | Growth Control Center with cross-channel metrics, roadmap, and key actions |
+| `/social` | Account connections, publishing cadence, ingestion jobs, feedback loop |
+| `/autopilot` | Configure cadence presets, monitor pipeline stages, view learning feed |
+| `/funding` | Opportunity discovery, funding pipeline, AI draft manager |
+| `/analytics` | Unified engagement analytics and experiment tracking |
+| `/settings` | Workspace profile, notifications, AI guardrails |
+
+## Supabase schema
+
+Migrations live in `supabase/migrations`. The initial schema sets up social, content, funding, and job tables. `002_expand_schema.sql` introduces organisations, autopilot config/runs, AI recommendations, notifications, and export tracking.
+
+### Credentials
+
+Populate `.env.local` with your Supabase and OpenAI keys:
+
+```
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+SUPABASE_SERVICE_ROLE_KEY=your_service_role_key
+OPENAI_API_KEY=your_openai_api_key
+```
+
+## Getting started
+
+```bash
+npm install
+npm run dev
+```
+
+Visit `http://localhost:3000`. The middleware redirects unauthenticated users to `/login`.
+
+To run database migrations:
+
+```bash
+npx supabase migrate up
+```
+
+## Next up
+
+1. Implement Supabase edge functions for ingestion cron and autopilot jobs.
+2. Wire provider OAuth flows (Meta, X, LinkedIn, YouTube) and store scopes.
+3. Connect AI generation endpoints for content, grants, and deck exports.
+4. Build real analytics dashboards backed by Supabase RPC/materialized views.

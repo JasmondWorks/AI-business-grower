@@ -1,4 +1,4 @@
-ï»¿"use client";
+"use client";
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -57,9 +57,9 @@ export function DashboardShell({
         <div className="rounded-md border border-slate-800/60 bg-slate-900/80 p-4 text-xs text-slate-400">
           <p className="font-semibold text-slate-200">MVP Milestones</p>
           <ul className="mt-2 space-y-1">
-            <li>â€¢ Phase 1: IG/FB Read+Write</li>
-            <li>â€¢ Phase 2: Autopilot + Feedback</li>
-            <li>â€¢ Phase 3: Funding Hub Lite</li>
+            <li>• Phase 1: IG/FB Read+Write</li>
+            <li>• Phase 2: Autopilot + Feedback</li>
+            <li>• Phase 3: Funding Hub Lite</li>
           </ul>
         </div>
       </div>

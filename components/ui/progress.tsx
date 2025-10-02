@@ -1,2 +1,15 @@
-﻿湩整晲捡⁥牐杯敲獳牐灯⁳੻†慶畬㩥渠浵敢㭲紊ਊ硥潰瑲映湵瑣潩⁮牐杯敲獳笨瘠污敵素›牐杯敲獳牐灯⥳笠 挠湯瑳挠慬灭摥㴠䴠瑡⹨業⡮〱ⰰ䴠瑡⹨慭⡸ⰰ瘠污敵⤩਻†敲畴湲⠠ †㰠楤⁶汣獡乳浡㵥栢㈭眠昭汵⁬癯牥汦睯栭摩敤⁮潲湵敤ⵤ畦汬戠ⵧ汳瑡ⵥ〸∰ਾ†††搼癩 †††挠慬獳慎敭∽⵨畦汬爠畯摮摥昭汵⁬杢椭摮杩ⵯ〵‰牴湡楳楴湯愭汬ਢ††††瑳汹㵥筻眠摩桴›①捻慬灭摥╽⁠絽 ††⼠ਾ††⼼楤㹶 ⤠਻
+interface ProgressProps {
+  value: number;
+}
 
+export function Progress({ value }: ProgressProps) {
+  const clamped = Math.min(100, Math.max(0, value));
+  return (
+    <div className="h-2 w-full overflow-hidden rounded-full bg-slate-800">
+      <div
+        className="h-full rounded-full bg-indigo-500 transition-all"
+        style={{ width: `${clamped}%` }}
+      />
+    </div>
+  );
+}

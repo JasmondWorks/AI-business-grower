@@ -1,2 +1,18 @@
-﻿浩潰瑲笠䈠瑵潴䡮䵔䅌瑴楲畢整⁳⁽牦浯∠敲捡≴਻椊瑮牥慦散䈠瑵潴偮潲獰攠瑸湥獤䈠瑵潴䡮䵔䅌瑴楲畢整㱳呈䱍畂瑴湯汅浥湥㹴笠 瘠牡慩瑮㨿∠牰浩牡≹簠∠畯汴湩≥簠∠桧獯≴਻੽挊湯瑳戠獡⁥਽†椢汮湩ⵥ汦硥椠整獭挭湥整⁲番瑳晩⵹散瑮牥朠灡㈭爠畯摮摥洭⁤硰㌭瀠⵹⸱‵整瑸猭⁭潦瑮洭摥畩⁭牴湡楳楴湯映捯獵漺瑵楬敮渭湯⁥潦畣㩳楲杮㈭映捯獵爺湩ⵧ汳瑡ⵥ〴⼰〴映捯獵爺湩ⵧ景獦瑥㈭映捯獵爺湩ⵧ景獦瑥猭慬整㤭〵搠獩扡敬㩤灯捡瑩⵹〵㬢ਊ潣獮⁴慶楲湡獴›敒潣摲刼煥極敲㱤畂瑴湯牐灯㹳≛慶楲湡≴ⱝ猠牴湩㹧㴠笠 瀠楲慭祲›戢ⵧ湩楤潧㔭〰琠硥⵴桷瑩⁥潨敶㩲杢椭摮杩ⵯ〴∰ਬ†畯汴湩㩥∠潢摲牥戠牯敤⵲汳瑡ⵥ〷‰整瑸猭慬整ㄭ〰栠癯牥戺ⵧ汳瑡ⵥ〸⼰〶Ⱒ 朠潨瑳›琢硥⵴汳瑡ⵥ〲‰潨敶㩲杢猭慬整㠭〰㘯∰ਬ㭽ਊ硥潰瑲映湵瑣潩⁮畂瑴湯笨瘠牡慩瑮㴠∠牰浩牡≹‬汣獡乳浡⁥‽∢‬⸮瀮潲獰素›畂瑴湯牐灯⥳笠 爠瑥牵⁮戼瑵潴⁮汣獡乳浡㵥恻笤慢敳⁽笤慶楲湡獴癛牡慩瑮絝␠捻慬獳慎敭恽⁽⹻⸮牰灯絳⼠㬾紊
+import { ButtonHTMLAttributes } from "react";
 
+interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+  variant?: "primary" | "outline" | "ghost";
+}
+
+const base =
+  "inline-flex items-center justify-center gap-2 rounded-md px-3 py-1.5 text-sm font-medium transition focus:outline-none focus:ring-2 focus:ring-slate-400/40 focus:ring-offset-2 focus:ring-offset-slate-950 disabled:opacity-50";
+
+const variants: Record<Required<ButtonProps>["variant"], string> = {
+  primary: "bg-indigo-500 text-white hover:bg-indigo-400",
+  outline: "border border-slate-700 text-slate-100 hover:bg-slate-800/60",
+  ghost: "text-slate-200 hover:bg-slate-800/60",
+};
+
+export function Button({ variant = "primary", className = "", ...props }: ButtonProps) {
+  return <button className={`${base} ${variants[variant]} ${className}`} {...props} />;
+}

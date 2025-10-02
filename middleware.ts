@@ -1,2 +1,52 @@
-﻿浩潰瑲笠挠敲瑡卥牥敶䍲楬湥⁴⁽牦浯∠獀灵扡獡⽥獳≲਻浩潰瑲笠丠硥剴獥潰獮ⱥ琠灹⁥敎瑸敒畱獥⁴⁽牦浯∠敮瑸猯牥敶≲਻攊灸牯⁴獡湹⁣畦据楴湯洠摩汤睥牡⡥敲畱獥㩴丠硥剴煥敵瑳 ੻†敬⁴畳慰慢敳敒灳湯敳㴠丠硥剴獥潰獮⹥敮瑸笨 †爠煥敵瑳ਬ†⥽਻ 挠湯瑳猠灵扡獡⁥‽牣慥整敓癲牥汃敩瑮ਨ††牰捯獥⹳湥⹶䕎员偟䉕䥌彃啓䅐䅂䕓啟䱒Ⱑ †瀠潲散獳攮癮丮塅彔啐䱂䍉卟偕䉁十彅乁乏䭟奅Ⱑ †笠 ††挠潯楫獥›੻††††敧䅴汬⤨笠 ††††爠瑥牵⁮敲畱獥⹴潣歯敩⹳敧䅴汬⤨਻††††ⱽ †††猠瑥汁⡬潣歯敩味卯瑥 ੻†††††畳慰慢敳敒灳湯敳㴠丠硥剴獥潰獮⹥敮瑸笨 †††††爠煥敵瑳ਬ†††††⥽਻ ††††挠潯楫獥潔敓⹴潦䕲捡⡨笨渠浡ⱥ瘠污敵‬灯楴湯⁳⥽㴠‾੻††††††敲畱獥⹴潣歯敩⹳敳⡴慮敭‬慶畬⥥਻††††††畳慰慢敳敒灳湯敳挮潯楫獥献瑥渨浡ⱥ瘠污敵‬灯楴湯⥳਻†††††⥽਻††††ⱽ ††素ਬ††੽†㬩ਊ†潣獮⁴੻††慤慴›⁻獵牥素ਬ†⁽‽睡楡⁴畳慰慢敳愮瑵⹨敧啴敳⡲㬩ਊ†晩⠠ †℠獵牥☠ਦ††爡煥敵瑳渮硥啴汲瀮瑡湨浡⹥瑳牡獴楗桴∨氯杯湩⤢☠ਦ††爡煥敵瑳渮硥啴汲瀮瑡湨浡⹥瑳牡獴楗桴∨愯瑵≨਩† ੻††潣獮⁴牵⁬‽敲畱獥⹴敮瑸牕⹬汣湯⡥㬩 †甠汲瀮瑡湨浡⁥‽⼢潬楧≮਻††敲畴湲丠硥剴獥潰獮⹥敲楤敲瑣用汲㬩 素ਊ†敲畴湲猠灵扡獡剥獥潰獮㭥紊ਊ硥潰瑲挠湯瑳挠湯楦⁧‽੻†慭捴敨㩲嬠 †∠⠯㼨弡敮瑸猯慴楴籣湟硥⽴浩条籥慦楶潣⹮捩籯⨮屜⠮㨿癳籧湰籧灪籧灪来杼晩睼扥⥰⤤⨮∩ਬ†ⱝ紊਻
+import { createServerClient } from "@supabase/ssr";
+import { NextResponse, type NextRequest } from "next/server";
 
+export async function middleware(request: NextRequest) {
+  let supabaseResponse = NextResponse.next({
+    request,
+  });
+
+  const supabase = createServerClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
+    {
+      cookies: {
+        getAll() {
+          return request.cookies.getAll();
+        },
+        setAll(cookiesToSet) {
+          supabaseResponse = NextResponse.next({
+            request,
+          });
+
+          cookiesToSet.forEach(({ name, value, options }) => {
+            request.cookies.set(name, value);
+            supabaseResponse.cookies.set(name, value, options);
+          });
+        },
+      },
+    }
+  );
+
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+
+  if (
+    !user &&
+    !request.nextUrl.pathname.startsWith("/login") &&
+    !request.nextUrl.pathname.startsWith("/auth")
+  ) {
+    const url = request.nextUrl.clone();
+    url.pathname = "/login";
+    return NextResponse.redirect(url);
+  }
+
+  return supabaseResponse;
+}
+
+export const config = {
+  matcher: [
+    "/((?!_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)",
+  ],
+};

@@ -1,2 +1,27 @@
-﻿浩潰瑲笠删慥瑣潎敤素映潲⁭爢慥瑣㬢ਊ湩整晲捡⁥慃摲牐灯⁳੻†楴汴㽥›瑳楲杮਻†敤捳楲瑰潩㽮›瑳楲杮਻†捡楴湯㽳›敒捡乴摯㭥 挠楨摬敲㩮删慥瑣潎敤਻੽攊灸牯⁴畦据楴湯䌠牡⡤⁻楴汴ⱥ搠獥牣灩楴湯‬捡楴湯ⱳ挠楨摬敲⁮㩽䌠牡偤潲獰 ੻†敲畴湲⠠ †㰠敳瑣潩⁮汣獡乳浡㵥爢畯摮摥砭⁬潢摲牥戠牯敤⵲汳瑡ⵥ〸‰杢猭慬整㤭〰㘯‰⵰‶桳摡睯氭⁧桳摡睯猭慬整㤭〵㐯∰ਾ†††格慥敤⁲汣獡乳浡㵥昢敬⁸瑩浥⵳瑳牡⁴番瑳晩⵹敢睴敥⁮慧⵰∳ਾ††††搼癩ਾ†††††瑻瑩敬㼠⠠ †††††㰠㉨挠慬獳慎敭∽整瑸氭⁧潦瑮猭浥扩汯⁤整瑸眭楨整㸢瑻瑩敬㱽栯㸲 ††††⤠㨠渠汵絬 ††††笠敤捳楲瑰潩⁮‿ਨ††††††瀼挠慬獳慎敭∽瑭ㄭ琠硥⵴浳琠硥⵴汳瑡ⵥ〴∰笾敤捳楲瑰潩絮⼼㹰 ††††⤠㨠渠汵絬 †††㰠搯癩ਾ††††慻瑣潩獮㼠㰠楤⁶汣獡乳浡㵥昢敬⁸慧⵰∲笾捡楴湯絳⼼楤㹶㨠渠汵絬 ††㰠栯慥敤㹲 ††㰠楤⁶汣獡乳浡㵥瑻瑩敬簠⁼敤捳楲瑰潩⁮‿洢⵴∴㨠∠索笾档汩牤湥㱽搯癩ਾ††⼼敳瑣潩㹮 ⤠਻
+import { ReactNode } from "react";
 
+interface CardProps {
+  title?: string;
+  description?: string;
+  actions?: ReactNode;
+  children: ReactNode;
+}
+
+export function Card({ title, description, actions, children }: CardProps) {
+  return (
+    <section className="rounded-xl border border-slate-800 bg-slate-900/60 p-6 shadow-lg shadow-slate-950/40">
+      <header className="flex items-start justify-between gap-3">
+        <div>
+          {title ? (
+            <h2 className="text-lg font-semibold text-white">{title}</h2>
+          ) : null}
+          {description ? (
+            <p className="mt-1 text-sm text-slate-400">{description}</p>
+          ) : null}
+        </div>
+        {actions ? <div className="flex gap-2">{actions}</div> : null}
+      </header>
+      <div className={title || description ? "mt-4" : ""}>{children}</div>
+    </section>
+  );
+}

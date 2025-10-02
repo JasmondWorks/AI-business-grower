@@ -1,2 +1,59 @@
-﻿產敳挠楬湥≴਻椊灭牯⁴⁻慄桳潢牡卤敨汬素映潲⁭䀢振浯潰敮瑮⽳慬潹瑵搯獡扨慯摲猭敨汬㬢椊灭牯⁴⁻慃摲素映潲⁭䀢振浯潰敮瑮⽳極振牡≤਻浩潰瑲笠䈠瑵潴⁮⁽牦浯∠⽀潣灭湯湥獴甯⽩畢瑴湯㬢椊灭牯⁴⁻慂杤⁥⁽牦浯∠⽀潣灭湯湥獴甯⽩慢杤≥਻攊灸牯⁴敤慦汵⁴畦据楴湯匠瑥楴杮偳条⡥ ੻†敲畴湲⠠ †㰠慄桳潢牡卤敨汬 ††琠瑩敬∽潗歲灳捡⁥敳瑴湩獧ਢ†††畳瑢瑩敬∽潃普杩牵⁥牯慧楮慳楴湯瀠潲楦敬‬潮楴楦慣楴湯ⱳ愠摮䄠⁉畧牡牤楡獬∮ ††愠瑣潩獮笽䈼瑵潴⁮慶楲湡㵴漢瑵楬敮㸢湉楶整琠慥浭瑡㱥䈯瑵潴㹮੽††ਾ†††猼捥楴湯挠慬獳慎敭∽牧摩朠灡㐭氠㩧牧摩挭汯⵳∲ਾ††††䌼牡⁤楴汴㵥伢杲湡獩瑡潩⁮牰景汩≥搠獥牣灩楴湯∽楄灳慬敹⁤湯攠灸牯獴愠摮椠癮獥潴⁲慭整楲污⹳㸢 ††††㰠楤⁶汣獡乳浡㵥猢慰散礭㌭琠硥⵴浳琠硥⵴汳瑡ⵥ〳∰ਾ††††††搼癩ਾ†††††††瀼挠慬獳慎敭∽潦瑮猭浥扩汯⁤整瑸眭楨整㸢灓潲瑵祬䰠扡㱳瀯ਾ†††††††瀼挠慬獳慎敭∽整瑸猭慬整㐭〰㸢潓楣污椠灭捡⁴慭歲瑥湩⁧潣汬捥楴敶⼼㹰 †††††㰠搯癩ਾ††††††䈼瑵潴⁮慶楲湡㵴朢潨瑳•汣獡乳浡㵥瀢⵸‰整瑸椭摮杩ⵯ〳‰潨敶㩲整瑸椭摮杩ⵯ〲∰ਾ†††††††摅瑩瀠潲楦敬 †††††㰠䈯瑵潴㹮 ††††㰠搯癩ਾ††††⼼慃摲ਾ †††㰠慃摲琠瑩敬∽潎楴楦慣楴湯瀠敲敦敲据獥•敤捳楲瑰潩㵮䔢慭汩⬠椠⵮灡⁰污牥獴㸢 ††††㰠楤⁶汣獡乳浡㵥猢慰散礭㈭琠硥⵴浳琠硥⵴汳瑡ⵥ〳∰ਾ††††††搼癩挠慬獳慎敭∽汦硥椠整獭挭湥整⁲番瑳晩⵹敢睴敥≮ਾ†††††††猼慰㹮畁潴楰潬⁴污牥獴⼼灳湡ਾ†††††††䈼摡敧瘠牡慩瑮∽畳捣獥≳䔾慮汢摥⼼慂杤㹥 †††††㰠搯癩ਾ††††††搼癩挠慬獳慎敭∽汦硥椠整獭挭湥整⁲番瑳晩⵹敢睴敥≮ਾ†††††††猼慰㹮畆摮湩⁧敲業摮牥㱳猯慰㹮 ††††††㰠慂杤⁥慶楲湡㵴椢普≯䐾杩獥㱴䈯摡敧ਾ††††††⼼楤㹶 †††††㰠楤⁶汣獡乳浡㵥昢敬⁸瑩浥⵳散瑮牥樠獵楴祦戭瑥敷湥㸢 ††††††㰠灳湡圾敥汫⁹畳浭牡㱹猯慰㹮 ††††††㰠慂杤⁥慶楲湡㵴眢牡楮杮㸢敐摮湩⁧敳畴㱰䈯摡敧ਾ††††††⼼楤㹶 ††††㰠搯癩ਾ††††⼼慃摲ਾ†††⼼敳瑣潩㹮ਊ†††䌼牡⁤楴汴㵥䄢⁉畧牡牤楡獬•敤捳楲瑰潩㵮匢瑥椠獮牴捵楴湯⁳潦⁲潴敮‬楬業獴‬湡⁤潣灭楬湡散∮ਾ††††搼癩挠慬獳慎敭∽灳捡ⵥ⵹″整瑸猭⁭整瑸猭慬整㌭〰㸢 ††††㰠㹰 †††††吠湯⁥畧摩㩥攠敮杲瑥捩‬潣浭湵瑩⵹楦獲ⱴ攠灭慨楳敳洠慥畳慲汢⁥浩慰瑣ਮ†††††⼼㹰 ††††㰠㹰敒瑳楲瑣摥琠灯捩㩳渠⁯潰楬楴慣⁬湥潤獲浥湥獴‬潮猠数畣慬楴敶挠慬浩⹳⼼㹰 ††††㰠畂瑴湯瘠牡慩瑮∽桧獯≴挠慬獳慎敭∽硰〭琠硥⵴湩楤潧㌭〰栠癯牥琺硥⵴湩楤潧㈭〰㸢 †††††䴠湡条⁥牰浯瑰ੳ†††††⼼畂瑴湯ਾ††††⼼楤㹶 ††㰠䌯牡㹤 †㰠䐯獡扨慯摲桓汥㹬 ⤠਻
+"use client";
 
+import { DashboardShell } from "@/components/layout/dashboard-shell";
+import { Card } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+
+export default function SettingsPage() {
+  return (
+    <DashboardShell
+      title="Workspace settings"
+      subtitle="Configure organisation profile, notifications, and AI guardrails."
+      actions={<Button variant="outline">Invite teammate</Button>}
+    >
+      <section className="grid gap-4 lg:grid-cols-2">
+        <Card title="Organisation profile" description="Displayed on exports and investor materials.">
+          <div className="space-y-3 text-sm text-slate-300">
+            <div>
+              <p className="font-semibold text-white">Sproutly Labs</p>
+              <p className="text-slate-400">Social impact marketing collective</p>
+            </div>
+            <Button variant="ghost" className="px-0 text-indigo-300 hover:text-indigo-200">
+              Edit profile
+            </Button>
+          </div>
+        </Card>
+
+        <Card title="Notification preferences" description="Email + in-app alerts">
+          <div className="space-y-2 text-sm text-slate-300">
+            <div className="flex items-center justify-between">
+              <span>Autopilot alerts</span>
+              <Badge variant="success">Enabled</Badge>
+            </div>
+            <div className="flex items-center justify-between">
+              <span>Funding reminders</span>
+              <Badge variant="info">Digest</Badge>
+            </div>
+            <div className="flex items-center justify-between">
+              <span>Weekly summary</span>
+              <Badge variant="warning">Pending setup</Badge>
+            </div>
+          </div>
+        </Card>
+      </section>
+
+      <Card title="AI guardrails" description="Set instructions for tone, limits, and compliance.">
+        <div className="space-y-3 text-sm text-slate-300">
+          <p>
+            Tone guide: energetic, community-first, emphasise measurable impact.
+          </p>
+          <p>Restricted topics: no political endorsements, no speculative claims.</p>
+          <Button variant="ghost" className="px-0 text-indigo-300 hover:text-indigo-200">
+            Manage prompts
+          </Button>
+        </div>
+      </Card>
+    </DashboardShell>
+  );
+}
