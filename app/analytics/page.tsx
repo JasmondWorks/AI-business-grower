@@ -72,12 +72,18 @@ export default function AnalyticsPage() {
                 className="flex items-center justify-between rounded-lg border border-slate-800 bg-slate-900/60 p-4"
               >
                 <div>
-                  <p className="text-sm font-semibold text-white">{channel.name}</p>
-                  <p className="text-xs text-slate-400">Reach {channel.reach}</p>
+                  <p className="text-sm font-semibold text-white">
+                    {channel.name}
+                  </p>
+                  <p className="text-xs text-slate-400">
+                    Reach {channel.reach}
+                  </p>
                 </div>
                 <div className="text-right text-sm text-slate-300">
                   <p>{channel.growth}</p>
-                  <p className="text-xs text-slate-500">Conv {channel.conversion}</p>
+                  <p className="text-xs text-slate-500">
+                    Conv {channel.conversion}
+                  </p>
                 </div>
               </div>
             ))}
@@ -96,10 +102,18 @@ export default function AnalyticsPage() {
                 className="flex items-center justify-between rounded-lg border border-slate-800 bg-slate-900/60 p-4"
               >
                 <div>
-                  <p className="text-sm font-semibold text-white">{experiment.name}</p>
-                  <p className="text-xs text-slate-400">Primary metric {experiment.metric}</p>
+                  <p className="text-sm font-semibold text-white">
+                    {experiment.name}
+                  </p>
+                  <p className="text-xs text-slate-400">
+                    Primary metric {experiment.metric}
+                  </p>
                 </div>
-                <Badge variant={experiment.status === "Winner" ? "success" : "warning"}>
+                <Badge
+                  variant={
+                    experiment.status === "Winner" ? "success" : "warning"
+                  }
+                >
                   {experiment.result}
                 </Badge>
               </div>
