@@ -19,7 +19,12 @@ interface ProviderAccount {
   created_at: string;
 }
 
-type ProviderKey = "instagram" | "facebook" | "twitter" | "linkedin" | "youtube";
+type ProviderKey =
+  | "instagram"
+  | "facebook"
+  | "twitter"
+  | "linkedin"
+  | "youtube";
 
 const providerToOAuth: Record<ProviderKey, Provider> = {
   instagram: "facebook",
@@ -89,9 +94,24 @@ const autopilotPlaybooks = [
 ];
 
 const ingestionJobs = [
-  { name: "Instagram analytics", schedule: "Daily 06:00", lastRun: "2h ago", status: "Success" },
-  { name: "Facebook webhooks", schedule: "Real time", lastRun: "3m ago", status: "Success" },
-  { name: "X mentions sync", schedule: "Hourly", lastRun: "Pending", status: "Warning" },
+  {
+    name: "Instagram analytics",
+    schedule: "Daily 06:00",
+    lastRun: "2h ago",
+    status: "Success",
+  },
+  {
+    name: "Facebook webhooks",
+    schedule: "Real time",
+    lastRun: "3m ago",
+    status: "Success",
+  },
+  {
+    name: "X mentions sync",
+    schedule: "Hourly",
+    lastRun: "Pending",
+    status: "Warning",
+  },
 ];
 
 export default function SocialPage() {
@@ -134,12 +154,18 @@ export default function SocialPage() {
 
   const disconnectMutation = useMutation({
     mutationFn: async (accountId: string) => {
-      const { error } = await supabase.from("provider_accounts").delete().eq("id", accountId);
+      const { error } = await supabase
+        .from("provider_accounts")
+        .delete()
+        .eq("id", accountId);
       if (error) {
         throw error;
       }
     },
-    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["provider-accounts", user?.id] }),
+    onSuccess: () =>
+      queryClient.invalidateQueries({
+        queryKey: ["provider-accounts", user?.id],
+      }),
   });
 
   const handleDisconnect = (account: ProviderAccount) => {
@@ -177,7 +203,10 @@ export default function SocialPage() {
 
   if (userLoading || accountsLoading) {
     return (
-      <DashboardShell title="Loading social stack" subtitle="Checking connected providers...">
+      <DashboardShell
+        title="Loading social stack"
+        subtitle="Checking connected providers..."
+      >
         <Card>
           <div className="h-24 animate-pulse rounded-lg bg-slate-800/60" />
         </Card>
@@ -195,7 +224,10 @@ export default function SocialPage() {
       title="Social autopilot"
       subtitle="Connect accounts, orchestrate publishing, and monitor engagement loops."
       actions={
-        <Button variant="outline" onClick={() => setAutopilotEnabled((prev) => !prev)}>
+        <Button
+          variant="outline"
+          onClick={() => setAutopilotEnabled((prev) => !prev)}
+        >
           Autopilot: {autopilotEnabled ? "On" : "Off"}
         </Button>
       }
@@ -222,8 +254,12 @@ export default function SocialPage() {
                       </span>
                     </div>
                     <div>
-                      <p className="text-sm font-semibold text-white">{provider.name}</p>
-                      <p className="text-xs text-slate-400">{provider.description}</p>
+                      <p className="text-sm font-semibold text-white">
+                        {provider.name}
+                      </p>
+                      <p className="text-xs text-slate-400">
+                        {provider.description}
+                      </p>
                     </div>
                   </div>
                   <div className="flex items-center gap-3">
@@ -256,7 +292,7 @@ export default function SocialPage() {
 
         <Card
           title="Publishing cadence"
-          description="This week’s autopilot playbooks and queue health."
+          description="This week's autopilot playbooks and queue health."
           actions={<Button variant="ghost">View calendar</Button>}
         >
           <div className="space-y-3">
@@ -267,10 +303,14 @@ export default function SocialPage() {
               >
                 <div className="flex items-center justify-between">
                   <div>
-                    <p className="text-sm font-semibold text-white">{playbook.title}</p>
+                    <p className="text-sm font-semibold text-white">
+                      {playbook.title}
+                    </p>
                     <p className="text-xs text-slate-400">{playbook.cadence}</p>
                   </div>
-                  <Badge variant={playbook.status === "Running" ? "success" : "info"}>
+                  <Badge
+                    variant={playbook.status === "Running" ? "success" : "info"}
+                  >
                     {playbook.status}
                   </Badge>
                 </div>
@@ -297,7 +337,7 @@ export default function SocialPage() {
                 <div>
                   <p className="text-sm font-semibold text-white">{job.name}</p>
                   <p className="text-xs text-slate-400">
-                    {job.schedule} · Last run {job.lastRun}
+                    {job.schedule} â€¢ Last run {job.lastRun}
                   </p>
                 </div>
                 {renderStatus(job.status)}
@@ -314,16 +354,18 @@ export default function SocialPage() {
             <div className="rounded-lg border border-slate-800 bg-slate-900/60 p-4">
               <p className="font-medium text-white">Insights applied</p>
               <p className="mt-2 text-slate-400">
-                Click-through rate improved by 18% after shortening captions to 140
-                characters and adding CTA links above the fold.
+                Click-through rate improved by 18% after shortening captions to
+                140 characters and adding CTA links above the fold.
               </p>
             </div>
             <div className="rounded-lg border border-slate-800 bg-slate-900/60 p-4">
               <p className="font-medium text-white">Upcoming experiments</p>
               <ul className="mt-2 space-y-1">
-                <li>• A/B test carousel vs reels for announcement posts</li>
-                <li>• Auto-reply to comments with personalised follow-up prompts</li>
-                <li>• Collect top posts for tone retraining dataset</li>
+                <li>â€¢ A/B test carousel vs reels for announcement posts</li>
+                <li>
+                  â€¢ Auto-reply to comments with personalised follow-up prompts
+                </li>
+                <li>â€¢ Collect top posts for tone retraining dataset</li>
               </ul>
             </div>
           </div>

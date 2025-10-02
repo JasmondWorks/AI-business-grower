@@ -58,7 +58,11 @@ export default function FundingPage() {
     >
       <section className="grid gap-4 lg:grid-cols-3">
         {pipeline.map((item) => (
-          <Card key={item.stage} title={item.stage} description={`${item.count} active`}>
+          <Card
+            key={item.stage}
+            title={item.stage}
+            description={`${item.count} active`}
+          >
             <p className="text-sm text-slate-300">{item.notes}</p>
           </Card>
         ))}
@@ -77,12 +81,22 @@ export default function FundingPage() {
                 className="flex items-center justify-between rounded-lg border border-slate-800 bg-slate-900/60 p-4"
               >
                 <div>
-                  <p className="text-sm font-semibold text-white">{opportunity.name}</p>
+                  <p className="text-sm font-semibold text-white">
+                    {opportunity.name}
+                  </p>
                   <p className="text-xs text-slate-400">
-                    Deadline {opportunity.deadline} · {opportunity.amount}
+                    Deadline {opportunity.deadline} â€¢ {opportunity.amount}
                   </p>
                 </div>
-                <Badge variant={opportunity.fit === "High" ? "success" : opportunity.fit === "Medium" ? "info" : "warning"}>
+                <Badge
+                  variant={
+                    opportunity.fit === "High"
+                      ? "success"
+                      : opportunity.fit === "Medium"
+                      ? "info"
+                      : "warning"
+                  }
+                >
                   {opportunity.fit}
                 </Badge>
               </div>
@@ -102,15 +116,20 @@ export default function FundingPage() {
                 className="rounded-lg border border-slate-800 bg-slate-900/60 p-4"
               >
                 <div className="flex items-center justify-between">
-                  <p className="text-sm font-semibold text-white">{draft.name}</p>
+                  <p className="text-sm font-semibold text-white">
+                    {draft.name}
+                  </p>
                   <Badge variant="info">{draft.status}</Badge>
                 </div>
                 <ul className="mt-2 space-y-1 text-xs text-slate-300">
                   {draft.outline.map((item) => (
-                    <li key={item}>• {item}</li>
+                    <li key={item}>â€¢ {item}</li>
                   ))}
                 </ul>
-                <Button variant="ghost" className="mt-3 px-0 text-indigo-300 hover:text-indigo-200">
+                <Button
+                  variant="ghost"
+                  className="mt-3 px-0 text-indigo-300 hover:text-indigo-200"
+                >
                   Open draft
                 </Button>
               </div>
@@ -125,12 +144,20 @@ export default function FundingPage() {
       >
         <div className="grid gap-3 md:grid-cols-2">
           <div className="rounded-lg border border-slate-800 bg-slate-900/60 p-4">
-            <p className="text-sm font-semibold text-white">Community Resilience</p>
-            <p className="mt-1 text-xs text-slate-400">Draft review with programs team tomorrow.</p>
+            <p className="text-sm font-semibold text-white">
+              Community Resilience
+            </p>
+            <p className="mt-1 text-xs text-slate-400">
+              Draft review with programs team tomorrow.
+            </p>
           </div>
           <div className="rounded-lg border border-slate-800 bg-slate-900/60 p-4">
-            <p className="text-sm font-semibold text-white">Seed Impact Angels</p>
-            <p className="mt-1 text-xs text-slate-400">Send traction dashboard update on Friday.</p>
+            <p className="text-sm font-semibold text-white">
+              Seed Impact Angels
+            </p>
+            <p className="mt-1 text-xs text-slate-400">
+              Send traction dashboard update on Friday.
+            </p>
           </div>
         </div>
       </Card>
